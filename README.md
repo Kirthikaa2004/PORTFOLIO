@@ -4,7 +4,7 @@
 A responsive and modern portfolio website built using **HTML**, **CSS**, and **JavaScript**, showcasing my skills, projects, and journey as a Front-End Developer and Computer Science student.
 
 ## 🚀 Live Demo  
-🔗 [Visit Portfolio](https://kirthilakshkarthivelu.neocities.org/PORTFOLIOhttps://kirthilakshkarthivelu.neocities.org/PORTFOLIO)
+🔗 [Visit Portfolio](https://kirthilakshkarthivelu.neocities.org/PORTFOLIO)
 
 ## 🔧 Features
 - Responsive design for all screen sizes  
